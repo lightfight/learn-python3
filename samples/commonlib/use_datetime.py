@@ -1,12 +1,15 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+import sys
 from datetime import datetime, timedelta, timezone
 
 # 获取当前datetime:
 now = datetime.now()
 print('now =', now)
 print('type(now) =', type(now))
+
+print("sys.version_info : ", sys.version_info)
 
 # 用指定日期时间创建datetime:
 dt = datetime(2015, 4, 19, 12, 20)

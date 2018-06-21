@@ -27,7 +27,7 @@ def judge(years):
 
 
 # 不停的接收控制台的输入
-while(True):
+while True:
     age = int(input('Input your age: '))
     judge(age)
 

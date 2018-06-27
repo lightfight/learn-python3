@@ -11,7 +11,7 @@ csv_file = open('tokens.csv', 'w', newline='')
 writer = csv.writer(csv_file)
 writer.writerow(['排名', 'token名称', '链接'])
 
-# host
+# host，爬取以太坊的token
 host_url = 'https://etherscan.io'
 
 

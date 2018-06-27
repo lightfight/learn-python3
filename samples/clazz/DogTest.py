@@ -13,6 +13,9 @@ print(e.name)
 print(d.dogName)
 print(e.dogName)
 
+d.feel = 'good'
+print(d.feel)
+
 
 
 

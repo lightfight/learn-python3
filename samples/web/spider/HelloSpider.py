@@ -27,7 +27,12 @@ with request.urlopen(req) as f:
     token_list = bs_obj.select('.hidden-xs h5 a')
     print("total token count = ", len(token_list))
     for i in range(len(token_list)):
-        # print(i, token_list[i])
+        print(i, token_list[i])
+        # 查看元素的类型
+        print(i, type(token_list[i]))
+        # 获取属性
+        print(i, token_list[i]['href'])
+        # 获取标签内容
         print(i, token_list[i].string)
 
 

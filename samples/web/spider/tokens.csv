@@ -19,24 +19,24 @@
 18,StatusNetwork (SNT),https://etherscan.io/token/0x744d70fdbe2ba4cf95131626614a1763df805b9e
 19,HuobiToken (HT),https://etherscan.io/token/0x6f259637dcd74c767781e37bc6133cd6a68aa161
 20,Walton (WTC),https://etherscan.io/token/0xb7cb1c96db6b22b0d3d9536e0108d062bd488f74
-21,IOSToken (IOST),https://etherscan.io/token/0xfa1a856cfa3409cfa145fa4e20eb270df3eb21ab
-22,Loopring (LRC),https://etherscan.io/token/0xef68e7c694f40c8202821edf525de3782458639f
+21,Loopring (LRC),https://etherscan.io/token/0xef68e7c694f40c8202821edf525de3782458639f
+22,IOSToken (IOST),https://etherscan.io/token/0xfa1a856cfa3409cfa145fa4e20eb270df3eb21ab
 23,DGD (DGD),https://etherscan.io/token/0xe0b7927c4af23765cb51314a0e0521a9645f0e2a
 24,AION (AION),https://etherscan.io/token/0x4CEdA7906a5Ed2179785Cd3A40A69ee8bc99C466
 25,Bancor (BNT),https://etherscan.io/token/0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c
 26,ELF (ELF),https://etherscan.io/token/0xbf2179859fc6d5bee9bf9158632dc51678a4100e
 27,Dentacoin (Dentacoin),https://etherscan.io/token/0x08d32b0da63e2C3bcF8019c9c5d849d7a9d791e6
 28,Cortex Coin (CTXC),https://etherscan.io/token/0xea11755ae41d889ceec39a63e6ff75a02bc1c00d
-29,FunFair (FUN),https://etherscan.io/token/0x419d0d8bdd9af5e606ae2232ed285aff190e711b
-30,Centrality Token (CENNZ),https://etherscan.io/token/0x1122b6a0e00dce0563082b6e2953f3a943855c1f
+29,Centrality Token (CENNZ),https://etherscan.io/token/0x1122b6a0e00dce0563082b6e2953f3a943855c1f
+30,FunFair (FUN),https://etherscan.io/token/0x419d0d8bdd9af5e606ae2232ed285aff190e711b
 31,KyberNetwork (KNC),https://etherscan.io/token/0xdd974d5c2e2928dea5f71b9825b8b646686bd200
 32,Theta Token (THETA),https://etherscan.io/token/0x3883f5e181fccaf8410fa61e12b59bad963fb645
 33,Enigma (ENG),https://etherscan.io/token/0xf0ee6b27b759c9893ce4f094b49ad28fd15a23e4
 34,BIX Token (BIX),https://etherscan.io/token/0xb3104b4b9da82025e8b9f8fb28b3553ce2f67069
 35,Kin (KIN),https://etherscan.io/token/0x818fc6c2ec5986bc6e2cbf00939d90556ab12ce5
 36,Decentraland (MANA),https://etherscan.io/token/0x0f5d2fb29fb7d3cfee444a200298f468908cc942
-37,CyberMiles (CMT),https://etherscan.io/token/0xf85feea2fdd81d51177f6b8f35f0e6734ce45f5f
-38,Veritaseum (VERI),https://etherscan.io/token/0x8f3470A7388c05eE4e7AF3d01D8C722b0FF52374
+37,Veritaseum (VERI),https://etherscan.io/token/0x8f3470A7388c05eE4e7AF3d01D8C722b0FF52374
+38,CyberMiles (CMT),https://etherscan.io/token/0xf85feea2fdd81d51177f6b8f35f0e6734ce45f5f
 39,Ethos (ETHOS),https://etherscan.io/token/0x5af2be193a6abca9c8817001f45744777db30756
 40,Fusion (FSN),https://etherscan.io/token/0xd0352a019e9ab9d757776f532377aaebd36fd541
 41,Monaco (MCO),https://etherscan.io/token/0xb63b606ac810a52cca15e44bb630fd42d8d1d83d
@@ -52,8 +52,8 @@
 51,Storm (STORM),https://etherscan.io/token/0xd0a4b8946cb52f0661273bfbc6fd0e0c75fc6433
 52,Dragon (DRGN),https://etherscan.io/token/0x419c4db4b9e25d6db2ad9691ccb832c8d9fda05e
 53,Gifto (GTO),https://etherscan.io/token/0xc5bbae50781be1669306b9e001eff57a2957b09d
-54,WAX Token (WAX),https://etherscan.io/token/0x39bb259f66e1c59d5abef88375979b4d20d98022
-55,MATRIX AI Network (MAN),https://etherscan.io/token/0xe25bcec5d3801ce3a794079bf94adf1b8ccd802d
+54,MATRIX AI Network (MAN),https://etherscan.io/token/0xe25bcec5d3801ce3a794079bf94adf1b8ccd802d
+55,WAX Token (WAX),https://etherscan.io/token/0x39bb259f66e1c59d5abef88375979b4d20d98022
 56,SONM (SNM),https://etherscan.io/token/0x983f6d60db79ea8ca4eb9968c6aff8cfa04b3c63
 57,ChainLink Token (LINK),https://etherscan.io/token/0x514910771af9ca656af840dff83e8264ecf986ca
 58,Storj (STORJ),https://etherscan.io/token/0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac
@@ -65,14 +65,14 @@
 64,SingularityNET (AGI),https://etherscan.io/token/0x8eb24319393716668d768dcec29356ae9cffe285
 65,HPBCoin (HPB),https://etherscan.io/token/0x38c6a68304cdefb9bec48bbfaaba5c5b47818bb2
 66,DATAcoin (DATA),https://etherscan.io/token/0x0cf0ee63788a0849fe5297f3407f701e122cc023
-67,TenXPay (PAY),https://etherscan.io/token/0xB97048628DB6B661D4C2aA833e95Dbe1A905B280
-68,Nexo (NEXO),https://etherscan.io/token/0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206
+67,Nexo (NEXO),https://etherscan.io/token/0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206
+68,TenXPay (PAY),https://etherscan.io/token/0xB97048628DB6B661D4C2aA833e95Dbe1A905B280
 69,HoloToken (HOT),https://etherscan.io/token/0x6c6ee5e31d828de241282b9606c8e98ea48526e2
 70,NucleusVision (nCash),https://etherscan.io/token/0x809826cceab68c387726af962713b64cb5cb3cca
 71,Request (REQ),https://etherscan.io/token/0x8f8221afbb33998d8584a2b05749ba73c37a938a
 72,Aragon (ANT),https://etherscan.io/token/0x960b236A07cf122663c4303350609A66A7B288C0
-73,CyberVeinToken (CVT),https://etherscan.io/token/0xbe428c3867f05dea2a89fc76a102b544eac7f772
-74,Gnosis (GNO),https://etherscan.io/token/0x6810e776880c02933d47db1b9fc05908e5386b96
+73,Gnosis (GNO),https://etherscan.io/token/0x6810e776880c02933d47db1b9fc05908e5386b96
+74,CyberVeinToken (CVT),https://etherscan.io/token/0xbe428c3867f05dea2a89fc76a102b544eac7f772
 75,RUFF (RUFF),https://etherscan.io/token/0xf278c1ca969095ffddded020290cf8b5c424ace2
 76,All Sports Coin (SOC),https://etherscan.io/token/0x2d0e95bd4795d7ace0da3c0ff7b706a5970eb9d3
 77,ArcBlock (ABT),https://etherscan.io/token/0xb98d4c97425d9908e66e53a6fdf673acca0be986
@@ -81,8 +81,8 @@
 80,Storiqa (STQ),https://etherscan.io/token/0x5c3a228510d246b78a3765c20221cbf3082b44a4
 81,Dai Stablecoin v1.0 (DAI),https://etherscan.io/token/0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359
 82,Bluzelle (BLZ),https://etherscan.io/token/0x5732046a883704404f284ce41ffadd5b007fd668
-83,ODEM Token (ODEM),https://etherscan.io/token/0xbf52f2ab39e26e0951d2a02b49b7702abe30406a
-84,EDUCare (EKT),https://etherscan.io/token/0xbab165df9455aa0f2aed1f2565520b91ddadb4c8
+83,EDUCare (EKT),https://etherscan.io/token/0xbab165df9455aa0f2aed1f2565520b91ddadb4c8
+84,ODEM Token (ODEM),https://etherscan.io/token/0xbf52f2ab39e26e0951d2a02b49b7702abe30406a
 85,DENT (DENT),https://etherscan.io/token/0x3597bfd533a99c9aa083587b074434e61eb0a258
 86,EnjinCoin (ENJ),https://etherscan.io/token/0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c
 87,Quantstamp (QSP),https://etherscan.io/token/0x99ea4db9ee77acd40b119bd1dc4e33e1c070b80d
@@ -91,33 +91,33 @@
 90,Genaro X (GNX),https://etherscan.io/token/0x6ec8a24cabdc339a06a172f8223ea557055adaa5
 91,Crypto20 (C20),https://etherscan.io/token/0x26e75307fc0c021472feb8f727839531f112f317
 92,Raiden (RDN),https://etherscan.io/token/0x255aa6df07540cb5d3d297f0d0d4d84cb52bc8e6
-93,Amber (AMB),https://etherscan.io/token/0x4dc3643dbc642b72c158e7f3d2ff232df61cb6ce
-94,PILLAR (PLR),https://etherscan.io/token/0xe3818504c1b32bf1557b16c238b2e01fd3149c17
+93,PILLAR (PLR),https://etherscan.io/token/0xe3818504c1b32bf1557b16c238b2e01fd3149c17
+94,Amber (AMB),https://etherscan.io/token/0x4dc3643dbc642b72c158e7f3d2ff232df61cb6ce
 95,QuarkChain Token (QKC),https://etherscan.io/token/0xea26c4ac16d4a5a106820bc8aee85fd0b7b2b664
 96,Bread (BRD),https://etherscan.io/token/0x558ec3152e2eb2174905cd19aea4e34a23de9ad6
 97,Trade (TIO),https://etherscan.io/token/0x80bc5512561c7f85a3a9508c7df7901b370fa1df
-98,NANJCOIN (NANJ),https://etherscan.io/token/0xffe02ee4c69edf1b340fcad64fbd6b37a7b9e265
-99,OCoin (OCN),https://etherscan.io/token/0x4092678e4e78230f46a1534c0fbc8fa39780892b
+98,OCoin (OCN),https://etherscan.io/token/0x4092678e4e78230f46a1534c0fbc8fa39780892b
+99,POA ERC20 on Foundation (POA20),https://etherscan.io/token/0x6758b7d441a9739b98552b373703d8d3d14f9e62
 100,SIRIN (SRN),https://etherscan.io/token/0x68d57c9a1c35f63e2c83ee8e49a64e9d70528d25
-101,POA ERC20 on Foundation (POA20),https://etherscan.io/token/0x6758b7d441a9739b98552b373703d8d3d14f9e62
+101,NANJCOIN (NANJ),https://etherscan.io/token/0xffe02ee4c69edf1b340fcad64fbd6b37a7b9e265
 102,Republic (REN),https://etherscan.io/token/0x408e41876cccdc0f92210600ef50372656052a38
-103,BLOCKv (VEE),https://etherscan.io/token/0x340d2bde5eb28c1eed91b2f790723e3b160613b7
-104,Metal (MTL),https://etherscan.io/token/0xF433089366899D83a9f26A773D59ec7eCF30355e
+103,Metal (MTL),https://etherscan.io/token/0xF433089366899D83a9f26A773D59ec7eCF30355e
+104,BLOCKv (VEE),https://etherscan.io/token/0x340d2bde5eb28c1eed91b2f790723e3b160613b7
 105,Lympo (LYM),https://etherscan.io/token/0x57ad67acf9bf015e4820fbd66ea1a21bed8852ec
 106,I HOUSE TOKEN (IHT),https://etherscan.io/token/0xeda8b016efa8b1161208cf041cd86972eee0f31e
 107,IOT Chain (ITC),https://etherscan.io/token/0x5e6b6d9abad9093fdc861ea1600eba1b355cd940
 108,Genesis Vision (GVT),https://etherscan.io/token/0x103c3A209da59d3E7C4A89307e66521e081CFDF0
 109,SPHTX (SPHTX),https://etherscan.io/token/0x3833dda0aeb6947b98ce454d89366cba8cc55528
-110,Po.et (POE),https://etherscan.io/token/0x0e0989b1f9b8a38983c2ba8053269ca62ec9b195
-111,Telcoin (TEL),https://etherscan.io/token/0x85e076361cc813a908ff672f9bad1541474402b2
+110,Telcoin (TEL),https://etherscan.io/token/0x85e076361cc813a908ff672f9bad1541474402b2
+111,Po.et (POE),https://etherscan.io/token/0x0e0989b1f9b8a38983c2ba8053269ca62ec9b195
 112,Internet Node Token (INT),https://etherscan.io/token/0x0b76544f6c413a555f309bf76260d1e02377c02a
-113,SPANK (SPANK),https://etherscan.io/token/0x42d6622dece394b54999fbd73d108123806f6a18
-114,CUBE (AUTO),https://etherscan.io/token/0x622dFfCc4e83C64ba959530A5a5580687a57581b
+113,CUBE (AUTO),https://etherscan.io/token/0x622dFfCc4e83C64ba959530A5a5580687a57581b
+114,SPANK (SPANK),https://etherscan.io/token/0x42d6622dece394b54999fbd73d108123806f6a18
 115,Tokenomy (TEN),https://etherscan.io/token/0xdd16ec0f66e54d453e6756713e533355989040e4
 116,Endor Protocol Token (EDR),https://etherscan.io/token/0xc528c28fec0a90c083328bc45f587ee215760a0f
-117,Edgeless (EDG),https://etherscan.io/token/0x08711d3b02c8758f2fb3ab4e80228418a7f8e39c
+117,DAEX Token (DAX),https://etherscan.io/token/0x0b4bdc478791897274652dc15ef5c135cae61e60
 118,PayPie (PPP),https://etherscan.io/token/0xc42209aCcC14029c1012fB5680D95fBd6036E2a0
-119,DAEX Token (DAX),https://etherscan.io/token/0x0b4bdc478791897274652dc15ef5c135cae61e60
+119,Edgeless (EDG),https://etherscan.io/token/0x08711d3b02c8758f2fb3ab4e80228418a7f8e39c
 120,BCAP (BCAP),https://etherscan.io/token/0xff3519eeeea3e76f1f699ccce5e23ee0bdda41ac
 121,QRL (QRL),https://etherscan.io/token/0x697beac28b09e122c4332d163985e8a73121b97f
 122,Trace (TRAC),https://etherscan.io/token/0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f
@@ -125,8 +125,8 @@
 124,Jibrel Network Token (JNT),https://etherscan.io/token/0xa5fd1a791c4dfcaacc963d4f73c6ae5824149ea7
 125,AdEx (ADX),https://etherscan.io/token/0x4470BB87d77b963A013DB939BE332f927f2b992e
 126,Eidoo (EDO),https://etherscan.io/token/0xced4e93198734ddaff8492d525bd258d49eb388e
-127,EthLend (LEND),https://etherscan.io/token/0x80fB784B7eD66730e8b1DBd9820aFD29931aab03
-128,UTN-P: Universa Token (UTNP),https://etherscan.io/token/0x9e3319636e2126e3c0bc9e3134aec5e1508a46c7
+127,UTN-P: Universa Token (UTNP),https://etherscan.io/token/0x9e3319636e2126e3c0bc9e3134aec5e1508a46c7
+128,EthLend (LEND),https://etherscan.io/token/0x80fB784B7eD66730e8b1DBd9820aFD29931aab03
 129,APIS (APIS),https://etherscan.io/token/0x4c0fbe1bb46612915e7967d2c3213cd4d87257ad
 130,Swarm Fund (SWM),https://etherscan.io/token/0x9e88613418cf03dca54d6a2cf6ad934a78c7a17a
 131,TokenCard (TKN),https://etherscan.io/token/0xaaaf91d9b90df800df4f55c205fd6989c977e73a
@@ -135,8 +135,8 @@
 134,Eximchain Token (EXC),https://etherscan.io/token/0x00c4b398500645eb5da00a1a379a88b11683ba01
 135,Cryptaur (CPT),https://etherscan.io/token/0x88d50b466be55222019d71f9e8fae17f5f45fca1
 136,Zebi Coin (ZCO),https://etherscan.io/token/0x2008e3057bd734e10ad13c9eae45ff132abc1722
-137,FuzeX (FXT),https://etherscan.io/token/0x1829aa045e21e0d59580024a951db48096e01782
-138,RipioCreditNetwork (RCN),https://etherscan.io/token/0xf970b8e36e23f7fc3fd752eea86f8be8d83375a6
+137,RipioCreditNetwork (RCN),https://etherscan.io/token/0xf970b8e36e23f7fc3fd752eea86f8be8d83375a6
+138,FuzeX (FXT),https://etherscan.io/token/0x1829aa045e21e0d59580024a951db48096e01782
 139,RNTB Token (RNTB),https://etherscan.io/token/0x1fe70be734e473e5721ea57c8b5b01e6caa52686
 140,Presearch (PRE),https://etherscan.io/token/0x88a3e4f35d64aad41a6d4030ac9afe4356cb84fa
 141,SNGLS (SNGLS),https://etherscan.io/token/0xaec2e87e0a235266d9c5adc9deb4b2e29b54d009
@@ -144,28 +144,28 @@
 143,INS (INS),https://etherscan.io/token/0x5b2e4a700dfbc560061e957edec8f6eeeb74a320
 144,Hydro Protocol (HOT),https://etherscan.io/token/0x9af839687f6c94542ac5ece2e317daae355493a1
 145,Havven (HAV),https://etherscan.io/token/0xc011a72400e58ecd99ee497cf89e3775d4bd732f
-146,Tomocoin (TOMO),https://etherscan.io/token/0x8b353021189375591723e7384262f45709a3c3dc
-147,KickCoin (KICK),https://etherscan.io/token/0x27695e09149adc738a978e9a678f99e4c39e9eb9
-148,UTRUST (UTK),https://etherscan.io/token/0x70a72833d6bf7f508c8224ce59ea1ef3d0ea3a38
-149,Simple Token (ST),https://etherscan.io/token/0x2c4e8f2d746113d0696ce89b35f0d8bf88e0aeca
+146,KickCoin (KICK),https://etherscan.io/token/0x27695e09149adc738a978e9a678f99e4c39e9eb9
+147,Tomocoin (TOMO),https://etherscan.io/token/0x8b353021189375591723e7384262f45709a3c3dc
+148,Simple Token (ST),https://etherscan.io/token/0x2c4e8f2d746113d0696ce89b35f0d8bf88e0aeca
+149,UTRUST (UTK),https://etherscan.io/token/0x70a72833d6bf7f508c8224ce59ea1ef3d0ea3a38
 150,MobileGo (MGO),https://etherscan.io/token/0x40395044Ac3c0C57051906dA938B54BD6557F212
 151,AirSwap (AST),https://etherscan.io/token/0x27054b13b1b798b345b591a4d22e6562d47ea75a
-152,Spectre.ai D-Token (SXDT),https://etherscan.io/token/0x12b306fa98f4cbb8d4457fdff3a0a0a56f07ccdf
-153,CPChain (CPC),https://etherscan.io/token/0xfAE4Ee59CDd86e3Be9e8b90b53AA866327D7c090
+152,CPChain (CPC),https://etherscan.io/token/0xfAE4Ee59CDd86e3Be9e8b90b53AA866327D7c090
+153,Spectre.ai D-Token (SXDT),https://etherscan.io/token/0x12b306fa98f4cbb8d4457fdff3a0a0a56f07ccdf
 154,district0x (DNT),https://etherscan.io/token/0x0abdace70d3790235af448c88547603b945604ea
 155,WINGS (WINGS),https://etherscan.io/token/0x667088b212ce3d06a1b553a7221E1fD19000d9aF
-156,OneRoot Network (RNT),https://etherscan.io/token/0xff603f43946a3a28df5e6a73172555d8c8b02386
-157,NAGA Coin (NGC),https://etherscan.io/token/0x72dd4b6bd852a3aa172be4d6c5a6dbec588cf131
+156,NAGA Coin (NGC),https://etherscan.io/token/0x72dd4b6bd852a3aa172be4d6c5a6dbec588cf131
+157,OneRoot Network (RNT),https://etherscan.io/token/0xff603f43946a3a28df5e6a73172555d8c8b02386
 158,Tierion Network Token (TNT),https://etherscan.io/token/0x08f5a9235b08173b7569f83645d2c7fb55e8ccd8
 159,Mothership (MSP),https://etherscan.io/token/0x68AA3F232dA9bdC2343465545794ef3eEa5209BD
 160,TAAS (TAAS),https://etherscan.io/token/0xe7775a6e9bcf904eb39da2b68c5efb4f9360e08c
 161,Modum Token (MOD),https://etherscan.io/token/0x957c30ab0426e0c93cd8241e2c60392d08c6ac8e
-162,WePower (WPR),https://etherscan.io/token/0x4CF488387F035FF08c371515562CBa712f9015d4
-163,Credo Token (CREDO),https://etherscan.io/token/0x4e0603e2a27a30480e5e3a4fe548e29ef12f64be
-164,Datum (DAT),https://etherscan.io/token/0x81c9151de0c8bafcd325a57e3db5a5df1cebf79c
-165,SelfKey (KEY),https://etherscan.io/token/0x4cc19356f2d37338b9802aa8e8fc58b0373296e7
-166,Decision Token (HST),https://etherscan.io/token/0x554c20b7c486beee439277b4540a434566dc4c02
-167,YOYOW (YOYOW),https://etherscan.io/token/0xcbeaec699431857fdb4d37addbbdc20e132d4903
+162,Credo Token (CREDO),https://etherscan.io/token/0x4e0603e2a27a30480e5e3a4fe548e29ef12f64be
+163,Datum (DAT),https://etherscan.io/token/0x81c9151de0c8bafcd325a57e3db5a5df1cebf79c
+164,WePower (WPR),https://etherscan.io/token/0x4CF488387F035FF08c371515562CBa712f9015d4
+165,Decision Token (HST),https://etherscan.io/token/0x554c20b7c486beee439277b4540a434566dc4c02
+166,YOYOW (YOYOW),https://etherscan.io/token/0xcbeaec699431857fdb4d37addbbdc20e132d4903
+167,SelfKey (KEY),https://etherscan.io/token/0x4cc19356f2d37338b9802aa8e8fc58b0373296e7
 168,Envion (EVN),https://etherscan.io/token/0xd780ae2bf04cd96e577d3d014762f831d97129d0
 169,UNetworkToken (UUU),https://etherscan.io/token/0x3543638ed4a9006e4840b105944271bcea15605d
 170,Melon (MLN),https://etherscan.io/token/0xBEB9eF514a379B997e0798FDcC901Ee474B6D9A1
@@ -175,27 +175,27 @@
 174,CoinDash (CDT),https://etherscan.io/token/0x177d39ac676ed1c67a2b268ad7f1e58826e5b0af
 175,DataWallet (DXT),https://etherscan.io/token/0x8db54ca569d3019a2ba126d03c37c44b5ef81ef6
 176,AppCoins (APPC),https://etherscan.io/token/0x1a7a8bd9106f2b8d977e08582dc7d24c723ab0db
-177,Fuel Token (FUEL),https://etherscan.io/token/0xea38eaa3c86c8f9b751533ba2e562deb9acded40
-178,XinFin XDCE (XDCE),https://etherscan.io/token/0x41ab1b6fcbb2fa9dced81acbdec13ea6315f2bf2
-179,Maecenas ART Token (ART),https://etherscan.io/token/0xfec0cf7fe078a500abf15f1284958f22049c2c7e
-180,Crowd Machine Compute Token (CMCT),https://etherscan.io/token/0x47bc01597798dcd7506dcca36ac4302fc93a8cfb
-181,Cashaa (CAS),https://etherscan.io/token/0xe8780b48bdb05f928697a5e8155f672ed91462f7
+177,XinFin XDCE (XDCE),https://etherscan.io/token/0x41ab1b6fcbb2fa9dced81acbdec13ea6315f2bf2
+178,Fuel Token (FUEL),https://etherscan.io/token/0xea38eaa3c86c8f9b751533ba2e562deb9acded40
+179,Crowd Machine Compute Token (CMCT),https://etherscan.io/token/0x47bc01597798dcd7506dcca36ac4302fc93a8cfb
+180,Cashaa (CAS),https://etherscan.io/token/0xe8780b48bdb05f928697a5e8155f672ed91462f7
+181,Maecenas ART Token (ART),https://etherscan.io/token/0xfec0cf7fe078a500abf15f1284958f22049c2c7e
 182,Lunyr (LUN),https://etherscan.io/token/0xfa05A73FfE78ef8f1a739473e462c54bae6567D9
 183,WaBi (WaBi),https://etherscan.io/token/0x286BDA1413a2Df81731D4930ce2F862a35A609fE
 184,COSS (COSS),https://etherscan.io/token/0x9e96604445ec19ffed9a5e8dd7b50a29c899a10c
 185,ICO (¢),https://etherscan.io/token/0xa33e729bf4fdeb868b534e1f20523463d9c46bee
 186,Oyster Pearl (PRL),https://etherscan.io/token/0x1844b21593262668b7248d0f57a220caaba46ab9
 187,BANKEX (BKX),https://etherscan.io/token/0x45245bc59219eeaaf6cd3f382e078a461ff9de7b
-188,QunQunCommunities (QUN),https://etherscan.io/token/0x264dc2dedcdcbb897561a57cba5085ca416fb7b4
-189,Soarcoin (Soar),https://etherscan.io/token/0xD65960FAcb8E4a2dFcb2C2212cb2e44a02e2a57E
+188,Soarcoin (Soar),https://etherscan.io/token/0xD65960FAcb8E4a2dFcb2C2212cb2e44a02e2a57E
+189,QunQunCommunities (QUN),https://etherscan.io/token/0x264dc2dedcdcbb897561a57cba5085ca416fb7b4
 190,BANCA (BANCA),https://etherscan.io/token/0x998b3b82bc9dba173990be7afb772788b5acb8bd
 191,Vibe Coin (VIBE),https://etherscan.io/token/0xe8ff5c9c75deb346acac493c463c8950be03dfba
 192,FirstBlood (ST),https://etherscan.io/token/0xaf30d2a7e90d7dc361c8c4585e9bb7d2f6f15bc7
 193,Dock (DOCK),https://etherscan.io/token/0xe5dada80aa6477e85d09747f2842f7993d0df71c
-194,Cobinhood (COB),https://etherscan.io/token/0xb2f7eb1f2c37645be61d73953035360e768d81e6
-195,Blackmoon Crypto Token (BMC),https://etherscan.io/token/0xdf6ef343350780bf8c3410bf062e0c015b1dd671
+194,Blackmoon Crypto Token (BMC),https://etherscan.io/token/0xdf6ef343350780bf8c3410bf062e0c015b1dd671
+195,FOTA (FOTA),https://etherscan.io/token/0x4270bb238f6dd8b1c3ca01f96ca65b2647c06d3c
 196,Covesting (COV),https://etherscan.io/token/0xe2fb6529ef566a080e6d23de0bd351311087d567
-197,FOTA (FOTA),https://etherscan.io/token/0x4270bb238f6dd8b1c3ca01f96ca65b2647c06d3c
+197,Cobinhood (COB),https://etherscan.io/token/0xb2f7eb1f2c37645be61d73953035360e768d81e6
 198,Proxeus (XES),https://etherscan.io/token/0xa017ac5fac5941f95010b12570b812c974469c2c
 199,Humaniq (HMQ),https://etherscan.io/token/0xcbcc0f036ed4788f63fc0fee32873d6a7487b908
 200,Aurora DAO (AURA),https://etherscan.io/token/0xcdcfc0f66c522fd086a1b725ea3c0eeb9f9e8814
@@ -214,50 +214,50 @@
 213,GRID (GRID),https://etherscan.io/token/0x12b19d3e2ccc14da04fae33e63652ce469b3f2fd
 214,Bloom (BLT),https://etherscan.io/token/0x107c4504cd79c5d2696ea0030a8dd4e92601b82e
 215,Polybius (PLBT),https://etherscan.io/token/0x0affa06e7fbe5bc9a764c979aa66e8256a631f02
-216,Lamden Tau (TAU),https://etherscan.io/token/0xc27a2f05fa577a83ba0fdb4c38443c0718356501
-217,Blockport (BPT),https://etherscan.io/token/0x327682779bab2bf4d1337e8974ab9de8275a7ca8
-218,MOT (MOT),https://etherscan.io/token/0x263c618480dbe35c300d8d5ecda19bbb986acaed
-219,Gems (GEM),https://etherscan.io/token/0xc7bba5b765581efb2cdd2679db5bea9ee79b201f
+216,Blockport (BPT),https://etherscan.io/token/0x327682779bab2bf4d1337e8974ab9de8275a7ca8
+217,MOT (MOT),https://etherscan.io/token/0x263c618480dbe35c300d8d5ecda19bbb986acaed
+218,Gems (GEM),https://etherscan.io/token/0xc7bba5b765581efb2cdd2679db5bea9ee79b201f
+219,Lamden Tau (TAU),https://etherscan.io/token/0xc27a2f05fa577a83ba0fdb4c38443c0718356501
 220,SunContract (SNC),https://etherscan.io/token/0xF4134146AF2d511Dd5EA8cDB1C4AC88C57D60404
-221,ATMChain (ATM),https://etherscan.io/token/0x9B11EFcAAA1890f6eE52C6bB7CF8153aC5d74139
-222,STK (STK),https://etherscan.io/token/0xae73b38d1c9a8b274127ec30160a4927c4d71824
-223,TIME (TIME),https://etherscan.io/token/0x6531f133e6deebe7f2dce5a0441aa7ef330b4e53
-224,Everex (EVX),https://etherscan.io/token/0xf3db5fa2c66b7af3eb0c0b782510816cbe4813b8
-225,Sakura Bloom (SKB),https://etherscan.io/token/0x4af328c52921706dcb739f25786210499169afe6
-226,Propy (PRO),https://etherscan.io/token/0x226bb599a12c826476e3a771454697ea52e9e220
-227,Omix (OMX),https://etherscan.io/token/0xb5dbc6d3cf380079df3b27135664b6bcf45d1869
-228,UnikoinGold (UKG),https://etherscan.io/token/0x24692791bc444c5cd0b81e3cbcaba4b04acd1f3b
-229,Numeraire (NMR),https://etherscan.io/token/0x1776e1f26f98b1a5df9cd347953a26dd3cb46671
-230,TE-FOOD (TFD),https://etherscan.io/token/0xe5f166c0d8872b68790061317bb6cca04582c912
-231,RED MWAT (MWAT),https://etherscan.io/token/0x6425c6be902d692ae2db752b3c268afadb099d3b
+221,Sakura Bloom (SKB),https://etherscan.io/token/0x4af328c52921706dcb739f25786210499169afe6
+222,ATMChain (ATM),https://etherscan.io/token/0x9B11EFcAAA1890f6eE52C6bB7CF8153aC5d74139
+223,STK (STK),https://etherscan.io/token/0xae73b38d1c9a8b274127ec30160a4927c4d71824
+224,TIME (TIME),https://etherscan.io/token/0x6531f133e6deebe7f2dce5a0441aa7ef330b4e53
+225,Omix (OMX),https://etherscan.io/token/0xb5dbc6d3cf380079df3b27135664b6bcf45d1869
+226,Everex (EVX),https://etherscan.io/token/0xf3db5fa2c66b7af3eb0c0b782510816cbe4813b8
+227,Propy (PRO),https://etherscan.io/token/0x226bb599a12c826476e3a771454697ea52e9e220
+228,TE-FOOD (TFD),https://etherscan.io/token/0xe5f166c0d8872b68790061317bb6cca04582c912
+229,RED MWAT (MWAT),https://etherscan.io/token/0x6425c6be902d692ae2db752b3c268afadb099d3b
+230,UnikoinGold (UKG),https://etherscan.io/token/0x24692791bc444c5cd0b81e3cbcaba4b04acd1f3b
+231,Numeraire (NMR),https://etherscan.io/token/0x1776e1f26f98b1a5df9cd347953a26dd3cb46671
 232,Neumark (NEU),https://etherscan.io/token/0xa823e6722006afe99e91c30ff5295052fe6b8e32
 233,DADI (DADI),https://etherscan.io/token/0xfb2f26f266fb2805a387230f2aa0a331b4d96fba
 234,Rialto (XRL),https://etherscan.io/token/0xb24754be79281553dc1adc160ddf5cd9b74361a4
 235,cVToken (cV),https://etherscan.io/token/0xda6cb58a0d0c01610a29c5a65c303e13e885887c
 236,Hedge (HDG),https://etherscan.io/token/0xffe8196bc259e8dedc544d935786aa4709ec3e64
-237,DMarket (DMT),https://etherscan.io/token/0x2ccbff3a042c68716ed2a2cb0c544a9f1d1935e1
-238,LAtoken (LA),https://etherscan.io/token/0xe50365f5d679cb98a1dd62d6f6e58e59321bcddf
-239,Guppy (Guppy),https://etherscan.io/token/0xf7b098298f7c69fc14610bf71d5e02c60792894c
-240,CEEK (CEEK),https://etherscan.io/token/0xb056c38f6b7dc4064367403e26424cd2c60655e1
-241,Better Betting (BETR),https://etherscan.io/token/0x763186eb8d4856d536ed4478302971214febc6a9
-242,smartshare token (SSP),https://etherscan.io/token/0x624d520bab2e4ad83935fa503fb130614374e850
+237,LAtoken (LA),https://etherscan.io/token/0xe50365f5d679cb98a1dd62d6f6e58e59321bcddf
+238,Guppy (Guppy),https://etherscan.io/token/0xf7b098298f7c69fc14610bf71d5e02c60792894c
+239,CEEK (CEEK),https://etherscan.io/token/0xb056c38f6b7dc4064367403e26424cd2c60655e1
+240,Better Betting (BETR),https://etherscan.io/token/0x763186eb8d4856d536ed4478302971214febc6a9
+241,Poker Chips (CHP),https://etherscan.io/token/0xf3db7560e820834658b590c96234c333cd3d5e5e
+242,DMarket (DMT),https://etherscan.io/token/0x2ccbff3a042c68716ed2a2cb0c544a9f1d1935e1
 243,REMME (REM),https://etherscan.io/token/0x83984d6142934bb535793a82adb0a46ef0f66b6d
-244,Poker Chips (CHP),https://etherscan.io/token/0xf3db7560e820834658b590c96234c333cd3d5e5e
-245,Silent Notary Token (SNTR),https://etherscan.io/token/0x2859021ee7f2cb10162e67f33af2d22764b31aff
-246,Stox (STX),https://etherscan.io/token/0x006bea43baa3f7a6f765f14f10a1a1b08334ef45
-247,Hydro (HYDRO),https://etherscan.io/token/0xebbdf302c940c6bfd49c6b165f457fdb324649bc
-248,Hacken (HKN),https://etherscan.io/token/0x9e6b2b11542f2bc52f3029077ace37e8fd838d7f
-249,Blocktix (TIX),https://etherscan.io/token/0xea1f346faf023f974eb5adaf088bbcdf02d761f4
-250,Moeda Loyalty Points (MDA),https://etherscan.io/token/0x51db5ad35c671a87207d88fc11d593ac0c8415bd
-251,AdToken (ADT),https://etherscan.io/token/0xd0d6d6c5fe4a677d343cc433536bb717bae167dd
+244,Silent Notary Token (SNTR),https://etherscan.io/token/0x2859021ee7f2cb10162e67f33af2d22764b31aff
+245,Stox (STX),https://etherscan.io/token/0x006bea43baa3f7a6f765f14f10a1a1b08334ef45
+246,Hydro (HYDRO),https://etherscan.io/token/0xebbdf302c940c6bfd49c6b165f457fdb324649bc
+247,Hacken (HKN),https://etherscan.io/token/0x9e6b2b11542f2bc52f3029077ace37e8fd838d7f
+248,Blocktix (TIX),https://etherscan.io/token/0xea1f346faf023f974eb5adaf088bbcdf02d761f4
+249,Monetha (MTH),https://etherscan.io/token/0xaf4dce16da2877f8c9e00544c93b62ac40631f16
+250,smartshare token (SSP),https://etherscan.io/token/0x624d520bab2e4ad83935fa503fb130614374e850
+251,Moeda Loyalty Points (MDA),https://etherscan.io/token/0x51db5ad35c671a87207d88fc11d593ac0c8415bd
 252,DICE (ROL),https://etherscan.io/token/0x2e071D2966Aa7D8dECB1005885bA1977D6038A65
-253,Monetha (MTH),https://etherscan.io/token/0xaf4dce16da2877f8c9e00544c93b62ac40631f16
+253,AdToken (ADT),https://etherscan.io/token/0xd0d6d6c5fe4a677d343cc433536bb717bae167dd
 254,Uquid Coin (UQC),https://etherscan.io/token/0xd01db73e047855efb414e6202098c4be4cd2423b
 255,LockTrip (LOC),https://etherscan.io/token/0x5e3346444010135322268a4630d2ed5f8d09446c
-256,PATRON (PAT),https://etherscan.io/token/0xF3b3Cad094B89392fcE5faFD40bC03b80F2Bc624
-257,OpenANX (OAX),https://etherscan.io/token/0x701c244b988a513c945973defa05de933b23fe1d
-258,SwissBorg (CHSB),https://etherscan.io/token/0xba9d4199fab4f26efe3551d490e3821486f135ba
-259,Cappasity (CAPP),https://etherscan.io/token/0x04f2e7221fdb1b52a68169b25793e51478ff0329
+256,Cappasity (CAPP),https://etherscan.io/token/0x04f2e7221fdb1b52a68169b25793e51478ff0329
+257,SwissBorg (CHSB),https://etherscan.io/token/0xba9d4199fab4f26efe3551d490e3821486f135ba
+258,OpenANX (OAX),https://etherscan.io/token/0x701c244b988a513c945973defa05de933b23fe1d
+259,PATRON (PAT),https://etherscan.io/token/0xF3b3Cad094B89392fcE5faFD40bC03b80F2Bc624
 260,Hms Token (HMC),https://etherscan.io/token/0xAa0bb10CEc1fa372eb3Abc17C933FC6ba863DD9E
 261,PolicyPal Network (PAL),https://etherscan.io/token/0xfedae5642668f8636a11987ff386bfd215f942ee
 262,Friendz Coin (FDZ),https://etherscan.io/token/0x23352036e911a22cfc692b5e2e196692658aded9
@@ -267,22 +267,22 @@
 266,Delta (DLT),https://etherscan.io/token/0x07e3c70653548b04f0a75970c1f81b4cbbfb606f
 267,Feed (IFT),https://etherscan.io/token/0x7654915a1b82d6d2d0afc37c52af556ea8983c7e
 268,EXRP Network (EXRN),https://etherscan.io/token/0xe469c4473af82217b30cf17b10bcdb6c8c796e75
-269,UCASH (UCASH),https://etherscan.io/token/0x92e52a1a235d9a103d970901066ce910aacefd37
-270,Linker Coin (LNC),https://etherscan.io/token/0x6BEB418Fc6E1958204aC8baddCf109B8E9694966
-271,Mark (MRK),https://etherscan.io/token/0xf453b5b9d4e0b5c62ffb256bb2378cc2bc8e8a89
-272,indaHash Coin (IDH),https://etherscan.io/token/0x5136c98a80811c3f46bdda8b5c4555cfd9f812f0
-273,EchoLink (EKO),https://etherscan.io/token/0xa6a840e50bcaa50da017b91a0d86b8b2d41156ee
-274,PRG (PRG),https://etherscan.io/token/0x7728dFEF5aBd468669EB7f9b48A7f70a501eD29D
-275,Measurable Data Token (MDT),https://etherscan.io/token/0x814e0908b12a99fecf5bc101bb5d0b8b5cdf7d26
+269,EchoLink (EKO),https://etherscan.io/token/0xa6a840e50bcaa50da017b91a0d86b8b2d41156ee
+270,UCASH (UCASH),https://etherscan.io/token/0x92e52a1a235d9a103d970901066ce910aacefd37
+271,Linker Coin (LNC),https://etherscan.io/token/0x6BEB418Fc6E1958204aC8baddCf109B8E9694966
+272,Mark (MRK),https://etherscan.io/token/0xf453b5b9d4e0b5c62ffb256bb2378cc2bc8e8a89
+273,indaHash Coin (IDH),https://etherscan.io/token/0x5136c98a80811c3f46bdda8b5c4555cfd9f812f0
+274,Measurable Data Token (MDT),https://etherscan.io/token/0x814e0908b12a99fecf5bc101bb5d0b8b5cdf7d26
+275,PRG (PRG),https://etherscan.io/token/0x7728dFEF5aBd468669EB7f9b48A7f70a501eD29D
 276,BBN (BBN),https://etherscan.io/token/0x35a69642857083ba2f30bfab735dacc7f0bac969
 277,UpToken (UP),https://etherscan.io/token/0x6ba460ab75cd2c56343b3517ffeba60748654d26
-278,DomRaiderToken (DRT),https://etherscan.io/token/0x9af4f26941677c706cfecf6d3379ff01bb85d5ab
-279,Arcade (ARC),https://etherscan.io/token/0xAc709FcB44a43c35F0DA4e3163b117A17F3770f5
-280,Bezop (Bez),https://etherscan.io/token/0x3839d8ba312751aa0248fed6a8bacb84308e20ed
-281,HeroNodeToken (HER),https://etherscan.io/token/0x491c9a23db85623eed455a8efdd6aba9b911c5df
-282,Sense (SENSE),https://etherscan.io/token/0x6745fab6801e376cd24f03572b9c9b0d4edddccf
-283,Rebellious (REBL),https://etherscan.io/token/0x5f53f7a8075614b699baad0bc2c899f4bad8fbbf
-284,ABYSS (ABYSS),https://etherscan.io/token/0x0e8d6b471e332f140e7d9dbb99e5e3822f728da6
+278,Arcade (ARC),https://etherscan.io/token/0xAc709FcB44a43c35F0DA4e3163b117A17F3770f5
+279,DomRaiderToken (DRT),https://etherscan.io/token/0x9af4f26941677c706cfecf6d3379ff01bb85d5ab
+280,Sense (SENSE),https://etherscan.io/token/0x6745fab6801e376cd24f03572b9c9b0d4edddccf
+281,Bezop (Bez),https://etherscan.io/token/0x3839d8ba312751aa0248fed6a8bacb84308e20ed
+282,HeroNodeToken (HER),https://etherscan.io/token/0x491c9a23db85623eed455a8efdd6aba9b911c5df
+283,ABYSS (ABYSS),https://etherscan.io/token/0x0e8d6b471e332f140e7d9dbb99e5e3822f728da6
+284,Rebellious (REBL),https://etherscan.io/token/0x5f53f7a8075614b699baad0bc2c899f4bad8fbbf
 285,Sentinel Chain (SENC),https://etherscan.io/token/0xa13f0743951b4f6e3e3aa039f682e17279f52bc3
 286,DAOstack (GEN),https://etherscan.io/token/0x543ff227f64aa17ea132bf9886cab5db55dcaddf
 287,RvT (RVT),https://etherscan.io/token/0x3d1ba9be9f66b8ee101911bc36d3fb562eac2244
@@ -296,50 +296,50 @@
 295,NapoleonX (NPX),https://etherscan.io/token/0x28b5e12cce51f15594b0b91d5b5adaa70f684a02
 296,BitClave (CAT),https://etherscan.io/token/0x1234567461d3f8db7496581774bd869c83d51c93
 297,Xaurum (Xaurum),https://etherscan.io/token/0x4DF812F6064def1e5e029f1ca858777CC98D2D81
-298,SwarmCity (SWT),https://etherscan.io/token/0xb9e7f8568e08d5659f5d29c4997173d84cdf2607
-299,Berry (BERRY),https://etherscan.io/token/0x6aeb95f06cda84ca345c2de0f3b7f96923a44f4c
-300,Zippie (ZIPT),https://etherscan.io/token/0xedd7c94fd7b4971b916d15067bc454b9e1bad980
-301,AVT (AVT),https://etherscan.io/token/0x0d88ed6e74bbfd96b831231638b66c05571e824f
-302,Nectar (NCT),https://etherscan.io/token/0x9e46a38f5daabe8683e10793b06749eef7d733d1
-303,Nexium (NxC),https://etherscan.io/token/0x45e42D659D9f9466cD5DF622506033145a9b89Bc
+298,Zippie (ZIPT),https://etherscan.io/token/0xedd7c94fd7b4971b916d15067bc454b9e1bad980
+299,SwarmCity (SWT),https://etherscan.io/token/0xb9e7f8568e08d5659f5d29c4997173d84cdf2607
+300,AVT (AVT),https://etherscan.io/token/0x0d88ed6e74bbfd96b831231638b66c05571e824f
+301,Nexium (NxC),https://etherscan.io/token/0x45e42D659D9f9466cD5DF622506033145a9b89Bc
+302,Berry (BERRY),https://etherscan.io/token/0x6aeb95f06cda84ca345c2de0f3b7f96923a44f4c
+303,Nectar (NCT),https://etherscan.io/token/0x9e46a38f5daabe8683e10793b06749eef7d733d1
 304,DOVU (DOV),https://etherscan.io/token/0xac3211a5025414af2866ff09c23fc18bc97e79b1
 305,EROSCOIN (ERO),https://etherscan.io/token/0x74ceda77281b339142a36817fa5f9e29412bab85
 306,DigitexFutures (DGTX),https://etherscan.io/token/0x1c83501478f1320977047008496dacbd60bb15ef
 307,Sharder (SS),https://etherscan.io/token/0xbbff862d906e348e9946bfb2132ecb157da3d4b4
-308,ChangeBank (CAG),https://etherscan.io/token/0x7d4b8cce0591c9044a22ee543533b72e976e36c3
-309,CanYaCoin (CAN),https://etherscan.io/token/0x1d462414fe14cf489c7a21cac78509f4bf8cd7c0
-310,Matryx (MTX),https://etherscan.io/token/0x0af44e2784637218dd1d32a322d44e603a8f0c6a
-311,Leverj (LEV),https://etherscan.io/token/0x0f4ca92660efad97a9a70cb0fe969c755439772c
+308,CanYaCoin (CAN),https://etherscan.io/token/0x1d462414fe14cf489c7a21cac78509f4bf8cd7c0
+309,ChangeBank (CAG),https://etherscan.io/token/0x7d4b8cce0591c9044a22ee543533b72e976e36c3
+310,Leverj (LEV),https://etherscan.io/token/0x0f4ca92660efad97a9a70cb0fe969c755439772c
+311,Matryx (MTX),https://etherscan.io/token/0x0af44e2784637218dd1d32a322d44e603a8f0c6a
 312,UniBright (UBT),https://etherscan.io/token/0x8400d94a5cb0fa0d041a3788e395285d61c9ee5e
 313,Target Coin (TGT),https://etherscan.io/token/0xac3da587eac229c9896d919abc235ca4fd7f72c1
 314,CargoX (CXO),https://etherscan.io/token/0xb6ee9668771a79be7967ee29a63d4184f8097143
 315,LALA (LALA),https://etherscan.io/token/0xfd107b473ab90e8fbd89872144a3dc92c40fa8c9
 316,DEBITUM (DEB),https://etherscan.io/token/0x151202c9c18e495656f372281f493eb7698961d5
 317,Fidelium Token (FID),https://etherscan.io/token/0x52fb36c83ad33c1824912fc81071ca5eeb8ab390
-318,CommerceBlock (CBT),https://etherscan.io/token/0x076C97e1c869072eE22f8c91978C99B4bcB02591
-319,DNA (DNA),https://etherscan.io/token/0x82b0e50478eeafde392d45d1259ed1071b6fda81
-320,Pareto Network Token (PARETO),https://etherscan.io/token/0xea5f88e54d982cbb0c441cde4e79bc305e5b43bc
-321,ZAP TOKEN (ZAP),https://etherscan.io/token/0x6781a0f84c7e9e846dcb84a9a5bd49333067b104
-322,Faceter (FACE),https://etherscan.io/token/0x1ccaa0f2a7210d76e1fdec740d5f323e2e1b1672
+318,DNA (DNA),https://etherscan.io/token/0x82b0e50478eeafde392d45d1259ed1071b6fda81
+319,Pareto Network Token (PARETO),https://etherscan.io/token/0xea5f88e54d982cbb0c441cde4e79bc305e5b43bc
+320,ZAP TOKEN (ZAP),https://etherscan.io/token/0x6781a0f84c7e9e846dcb84a9a5bd49333067b104
+321,Faceter (FACE),https://etherscan.io/token/0x1ccaa0f2a7210d76e1fdec740d5f323e2e1b1672
+322,CommerceBlock (CBT),https://etherscan.io/token/0x076C97e1c869072eE22f8c91978C99B4bcB02591
 323,Patientory (PTOY),https://etherscan.io/token/0x8ae4bf2c33a8e667de34b54938b0ccd03eb8cc06
-324,Aditus (ADI),https://etherscan.io/token/0x8810c63470d38639954c6b41aac545848c46484a
-325,Flixx (FLIXX),https://etherscan.io/token/0xf04a8ac553fcedb5ba99a64799155826c136b0be
-326,Zilla (ZLA),https://etherscan.io/token/0xfd8971d5e8e1740ce2d0a84095fca4de729d0c16
-327,FluzFluz (FLUZ),https://etherscan.io/token/0x954b5de09a55e59755acbda29e1eb74a45d30175
-328,B2BX (B2BX),https://etherscan.io/token/0x5d51fcced3114a8bb5e90cdd0f9d682bcbcc5393
-329,AdBank (ADB),https://etherscan.io/token/0x2baac9330cf9ac479d819195794d79ad0c7616e3
-330,Helbiz (HBZ),https://etherscan.io/token/0xe34e1944e776f39b9252790a0527ebda647ae668
-331,Trustcoin (TRST),https://etherscan.io/token/0xcb94be6f13a1182e4a4b6140cb7bf2025d28e41b
-332,Privatix (PRIX),https://etherscan.io/token/0x3adfc4999f77d04c8341bac5f3a76f58dff5b37a
-333,EZToken (EZT),https://etherscan.io/token/0x5e6016ae7d7c49d347dcf834860b9f3ee282812b
-334,REX - Real Estate tokens (REX),https://etherscan.io/token/0xf05a9382A4C3F29E2784502754293D88b835109C
-335,Signals (SIG),https://etherscan.io/token/0x6888a16ea9792c15a4dcf2f6c623d055c8ede792
-336,AidCoin (AID),https://etherscan.io/token/0x37e8789bb9996cac9156cd5f5fd32599e6b91289
-337,NimiqNetwork (NET),https://etherscan.io/token/0xcfb98637bcae43C13323EAa1731cED2B716962fD
-338,Lendingblock (LND),https://etherscan.io/token/0x0947b0e6d821378805c9598291385ce7c791a6b2
-339,Ink Protocol (XNK),https://etherscan.io/token/0xbc86727e770de68b1060c91f6bb6945c73e10388
-340,Alis (ALIS),https://etherscan.io/token/0xea610b1153477720748dc13ed378003941d84fab
-341,Pluton (PLU),https://etherscan.io/token/0xD8912C10681D8B21Fd3742244f44658dBA12264E
+324,Flixx (FLIXX),https://etherscan.io/token/0xf04a8ac553fcedb5ba99a64799155826c136b0be
+325,Zilla (ZLA),https://etherscan.io/token/0xfd8971d5e8e1740ce2d0a84095fca4de729d0c16
+326,AdBank (ADB),https://etherscan.io/token/0x2baac9330cf9ac479d819195794d79ad0c7616e3
+327,B2BX (B2BX),https://etherscan.io/token/0x5d51fcced3114a8bb5e90cdd0f9d682bcbcc5393
+328,FluzFluz (FLUZ),https://etherscan.io/token/0x954b5de09a55e59755acbda29e1eb74a45d30175
+329,Helbiz (HBZ),https://etherscan.io/token/0xe34e1944e776f39b9252790a0527ebda647ae668
+330,Trustcoin (TRST),https://etherscan.io/token/0xcb94be6f13a1182e4a4b6140cb7bf2025d28e41b
+331,Privatix (PRIX),https://etherscan.io/token/0x3adfc4999f77d04c8341bac5f3a76f58dff5b37a
+332,EZToken (EZT),https://etherscan.io/token/0x5e6016ae7d7c49d347dcf834860b9f3ee282812b
+333,REX - Real Estate tokens (REX),https://etherscan.io/token/0xf05a9382A4C3F29E2784502754293D88b835109C
+334,AidCoin (AID),https://etherscan.io/token/0x37e8789bb9996cac9156cd5f5fd32599e6b91289
+335,NimiqNetwork (NET),https://etherscan.io/token/0xcfb98637bcae43C13323EAa1731cED2B716962fD
+336,Ink Protocol (XNK),https://etherscan.io/token/0xbc86727e770de68b1060c91f6bb6945c73e10388
+337,Lendingblock (LND),https://etherscan.io/token/0x0947b0e6d821378805c9598291385ce7c791a6b2
+338,Signals (SIG),https://etherscan.io/token/0x6888a16ea9792c15a4dcf2f6c623d055c8ede792
+339,Alis (ALIS),https://etherscan.io/token/0xea610b1153477720748dc13ed378003941d84fab
+340,Pluton (PLU),https://etherscan.io/token/0xD8912C10681D8B21Fd3742244f44658dBA12264E
+341,Aditus (ADI),https://etherscan.io/token/0x8810c63470d38639954c6b41aac545848c46484a
 342,AstroTokens (ASTRO),https://etherscan.io/token/0x7b22938ca841aa392c93dbb7f4c42178e3d65e88
 343,MORPH (MORPH),https://etherscan.io/token/0x2ef27bf41236bd859a95209e17a43fbd26851f92
 344,Dao.Casino (BET),https://etherscan.io/token/0x8aa33a7899fcc8ea5fbe6a608a109c3893a1b8b2
@@ -347,18 +347,18 @@
 346,Mysterium (MYST),https://etherscan.io/token/0xa645264C5603E96c3b0B078cdab68733794B0A71
 347,Colu Local Network (CLN),https://etherscan.io/token/0x4162178b78d6985480a308b2190ee5517460406d
 348,ClearPoll (POLL),https://etherscan.io/token/0x705EE96c1c160842C92c1aeCfCFfccc9C412e3D9
-349,Devery.io (EVE),https://etherscan.io/token/0x923108a439c4e8c2315c4f6521e5ce95b44e9b4c
-350,XPlay (XPA),https://etherscan.io/token/0x90528aeb3a2b736b780fd1b6c478bb7e1d643170
+349,XPlay (XPA),https://etherscan.io/token/0x90528aeb3a2b736b780fd1b6c478bb7e1d643170
+350,Devery.io (EVE),https://etherscan.io/token/0x923108a439c4e8c2315c4f6521e5ce95b44e9b4c
 351,Block Array (ARY),https://etherscan.io/token/0xa5f8fc0921880cb7342368bd128eb8050442b1a1
-352,TrueFlip (TFL),https://etherscan.io/token/0xa7f976c360ebbed4465c2855684d1aae5271efa9
+352,Adshares (ADST),https://etherscan.io/token/0x422866a8f0b032c5cf1dfbdef31a20f4509562b0
 353,CoinFi (COFI),https://etherscan.io/token/0x3136ef851592acf49ca4c825131e364170fa32b3
 354,BitDice (CSNO),https://etherscan.io/token/0x29d75277ac7f0335b2165d0895e8725cbf658d73
-355,Adshares (ADST),https://etherscan.io/token/0x422866a8f0b032c5cf1dfbdef31a20f4509562b0
+355,TrueFlip (TFL),https://etherscan.io/token/0xa7f976c360ebbed4465c2855684d1aae5271efa9
 356,Bounty0x (BNTY),https://etherscan.io/token/0xd2d6158683aee4cc838067727209a0aaf4359de3
-357,Real Estate Asset Ledger (REAL),https://etherscan.io/token/0x9214ec02cb71cba0ada6896b8da260736a67ab10
-358,Morpheus Infrastructure Token (MITx),https://etherscan.io/token/0x4a527d8fc13c5203ab24ba0944f4cb14658d1db6
-359,Snovio (SNOV),https://etherscan.io/token/0xbdc5bac39dbe132b1e030e898ae3830017d7d969
-360,NPER (NPER),https://etherscan.io/token/0x4ce6b362bc77a24966dda9078f9cef81b3b886a7
+357,Snovio (SNOV),https://etherscan.io/token/0xbdc5bac39dbe132b1e030e898ae3830017d7d969
+358,Real Estate Asset Ledger (REAL),https://etherscan.io/token/0x9214ec02cb71cba0ada6896b8da260736a67ab10
+359,NPER (NPER),https://etherscan.io/token/0x4ce6b362bc77a24966dda9078f9cef81b3b886a7
+360,Morpheus Infrastructure Token (MITx),https://etherscan.io/token/0x4a527d8fc13c5203ab24ba0944f4cb14658d1db6
 361,0xBitcoin Token (0xBTC),https://etherscan.io/token/0xb6ed7644c69416d67b522e20bc294a9a9b405b31
 362,Vice (VIT),https://etherscan.io/token/0x23b75bc7aaf28e2d6628c3f424b3882f8f072a3c
 363,1World (1WO),https://etherscan.io/token/0xfdbc1adc26f0f8f8606a5d63b7d3a3cd21c22b23
@@ -367,40 +367,40 @@
 366,Internxt (INXT),https://etherscan.io/token/0xa8006c4ca56f24d6836727d106349320db7fef82
 367,Auctus (AUC),https://etherscan.io/token/0xc12d099be31567add4e4e4d0d45691c3f58f5663
 368,Bee (BEE),https://etherscan.io/token/0x4d8fc1453a0f359e99c9675954e656d80d996fbf
-369,Hurify Token (HUR),https://etherscan.io/token/0xcdb7ecfd3403eef3882c65b761ef9b5054890a47
-370,Gladius (GLA),https://etherscan.io/token/0x71d01db8d6a2fbea7f8d434599c237980c234e4c
+369,Gladius (GLA),https://etherscan.io/token/0x71d01db8d6a2fbea7f8d434599c237980c234e4c
+370,Hurify Token (HUR),https://etherscan.io/token/0xcdb7ecfd3403eef3882c65b761ef9b5054890a47
 371,IPSX (IPSX),https://etherscan.io/token/0x001f0aa5da15585e5b2305dbab2bac425ea71007
 372,Worldcore (WRC),https://etherscan.io/token/0x72adadb447784dd7ab1f472467750fc485e4cb2d
 373,Open Trading Network (OTN),https://etherscan.io/token/0x881ef48211982d01e2cb7092c915e647cd40d85c
 374,ATLANT (ATL),https://etherscan.io/token/0x78b7fada55a64dd895d8c8c35779dd8b67fa8a05
-375,CPAY (CPAY),https://etherscan.io/token/0x0Ebb614204E47c09B6C3FeB9AAeCad8EE060E23E
-376,Experty (EXY),https://etherscan.io/token/0x5c743a35E903F6c584514ec617ACEe0611Cf44f3
-377,Opus (OPT),https://etherscan.io/token/0x4355fC160f74328f9b383dF2EC589bB3dFd82Ba0
-378,FundRequest (FND),https://etherscan.io/token/0x4df47b4969b2911c966506e3592c41389493953b
-379,Spectre.ai U-Token (SXUT),https://etherscan.io/token/0x2c82c73d5b34aa015989462b2948cd616a37641f
-380,Herocoin (PLAY),https://etherscan.io/token/0xe477292f1b3268687a29376116b0ed27a9c76170
+375,Experty (EXY),https://etherscan.io/token/0x5c743a35E903F6c584514ec617ACEe0611Cf44f3
+376,Opus (OPT),https://etherscan.io/token/0x4355fC160f74328f9b383dF2EC589bB3dFd82Ba0
+377,FundRequest (FND),https://etherscan.io/token/0x4df47b4969b2911c966506e3592c41389493953b
+378,Spectre.ai U-Token (SXUT),https://etherscan.io/token/0x2c82c73d5b34aa015989462b2948cd616a37641f
+379,Herocoin (PLAY),https://etherscan.io/token/0xe477292f1b3268687a29376116b0ed27a9c76170
+380,Oyster Shell (SHL),https://etherscan.io/token/0x8542325b72c6d9fc0ad2ca965a78435413a915a0
 381,Sharpe Platform Token (SHP),https://etherscan.io/token/0xef2463099360a085f1f10b076ed72ef625497a06
-382,Oyster Shell (SHL),https://etherscan.io/token/0x8542325b72c6d9fc0ad2ca965a78435413a915a0
-383,Education (LEDU),https://etherscan.io/token/0x5b26c5d0772e5bbac8b3182ae9a13f9bb2d03765
-384,Gimli (GIM),https://etherscan.io/token/0xae4f56f072c34c0a65b3ae3e4db797d831439d93
+382,Education (LEDU),https://etherscan.io/token/0x5b26c5d0772e5bbac8b3182ae9a13f9bb2d03765
+383,Gimli (GIM),https://etherscan.io/token/0xae4f56f072c34c0a65b3ae3e4db797d831439d93
+384,Dether (DTH),https://etherscan.io/token/0x5adc961d6ac3f7062d2ea45fefb8d8167d44b190
 385,Insights Network (INSTAR),https://etherscan.io/token/0xc72fe8e3dd5bef0f9f31f259399f301272ef2a2d
-386,Dether (DTH),https://etherscan.io/token/0x5adc961d6ac3f7062d2ea45fefb8d8167d44b190
-387,SPF (SPF),https://etherscan.io/token/0x85089389c14bd9c77fc2b8f0c3d1dc3363bf06ef
-388,SOCIALL (SCL),https://etherscan.io/token/0xd7631787b4dcc87b1254cfd1e5ce48e96823dee8
+386,SPF (SPF),https://etherscan.io/token/0x85089389c14bd9c77fc2b8f0c3d1dc3363bf06ef
+387,SOCIALL (SCL),https://etherscan.io/token/0xd7631787b4dcc87b1254cfd1e5ce48e96823dee8
+388,CPAY (CPAY),https://etherscan.io/token/0x0Ebb614204E47c09B6C3FeB9AAeCad8EE060E23E
 389,Global Messaging Token (GMT),https://etherscan.io/token/0xb3bd49e28f8f832b8d1e246106991e546c323502
-390,WTT (WTT),https://etherscan.io/token/0x84119cb33e8f590d75c2d6ea4e6b0741a7494eda
-391,Invacio Coin (INV),https://etherscan.io/token/0xece83617db208ad255ad4f45daf81e25137535bb
-392,BTRN (BTRN),https://etherscan.io/token/0x03c780cd554598592b97b7256ddaad759945b125
+390,BTRN (BTRN),https://etherscan.io/token/0x03c780cd554598592b97b7256ddaad759945b125
+391,WTT (WTT),https://etherscan.io/token/0x84119cb33e8f590d75c2d6ea4e6b0741a7494eda
+392,Invacio Coin (INV),https://etherscan.io/token/0xece83617db208ad255ad4f45daf81e25137535bb
 393,PayFair (PFR),https://etherscan.io/token/0x2fa32a39fc1c399e0cc7b2935868f5165de7ce97
 394,Vezt (VZT),https://etherscan.io/token/0x9720b467a710382A232a32F540bDCed7d662a10B
 395,AMLT (AMLT),https://etherscan.io/token/0xca0e7269600d353f70b14ad118a49575455c0f2f
-396,Indorse (IND),https://etherscan.io/token/0xf8e386eda857484f5a12e4b5daa9984e06e73705
-397,vSlice (VSL),https://etherscan.io/token/0x5c543e7AE0A1104f78406C340E9C64FD9fCE5170
-398,DCORP (DRP),https://etherscan.io/token/0x621d78f2ef2fd937bfca696cabaf9a779f59b3ed
-399,GAT (GAT),https://etherscan.io/token/0x687174f8c49ceb7729d925c3a961507ea4ac7b28
+396,vSlice (VSL),https://etherscan.io/token/0x5c543e7AE0A1104f78406C340E9C64FD9fCE5170
+397,GAT (GAT),https://etherscan.io/token/0x687174f8c49ceb7729d925c3a961507ea4ac7b28
+398,Indorse (IND),https://etherscan.io/token/0xf8e386eda857484f5a12e4b5daa9984e06e73705
+399,DCORP (DRP),https://etherscan.io/token/0x621d78f2ef2fd937bfca696cabaf9a779f59b3ed
 400,Upfiring (UFR),https://etherscan.io/token/0xea097a2b1db00627b2fa17460ad260c016016977
-401,VOISE (VOISE),https://etherscan.io/token/0x83eEA00D838f92dEC4D1475697B9f4D3537b56E3
-402,IUNGO (ING),https://etherscan.io/token/0x24ddff6d8b8a42d835af3b440de91f3386554aa4
+401,IUNGO (ING),https://etherscan.io/token/0x24ddff6d8b8a42d835af3b440de91f3386554aa4
+402,VOISE (VOISE),https://etherscan.io/token/0x83eEA00D838f92dEC4D1475697B9f4D3537b56E3
 403,Tokia (TKA),https://etherscan.io/token/0xdae1baf249964bc4b6ac98c3122f0e3e785fd279
 404,FintruX Network (FTX),https://etherscan.io/token/0xd559f20296ff4895da39b5bd9add54b442596a61
 405,Bonpay (BON),https://etherscan.io/token/0xcc34366e3842ca1bd36c1f324d15257960fcc801
@@ -420,23 +420,23 @@
 419,RefToken (REF),https://etherscan.io/token/0x89303500a7abfb178b274fd89f2469c264951e1f
 420,Daneel (DAN),https://etherscan.io/token/0x9b70740e708a083c6ff38df52297020f5dfaa5ee
 421,Aigang (AIX),https://etherscan.io/token/0x1063ce524265d5a3a624f4914acd573dd89ce988
-422,TieToken (TIE),https://etherscan.io/token/0x999967e2ec8a74b7c8e9db19e039d920b31d39d0
-423,Autonio (NIO),https://etherscan.io/token/0x5554e04e76533e1d14c52f05beef6c9d329e1e30
+422,Autonio (NIO),https://etherscan.io/token/0x5554e04e76533e1d14c52f05beef6c9d329e1e30
+423,TieToken (TIE),https://etherscan.io/token/0x999967e2ec8a74b7c8e9db19e039d920b31d39d0
 424,COPYTRACK (CPY),https://etherscan.io/token/0xf44745fbd41f6a1ba151df190db0564c5fcc4410
 425,StarterCoin (STAC),https://etherscan.io/token/0x9a005c9a89bd72a4bd27721e7a09a3c11d2b03c4
 426,Chainium (CHX),https://etherscan.io/token/0x1460a58096d80a50a2f1f956dda497611fa4f165
-427,EventChain (EVC),https://etherscan.io/token/0xb62d18dea74045e822352ce4b3ee77319dc5ff2f
-428,Coinlancer (CL),https://etherscan.io/token/0xe81d72d14b1516e68ac3190a46c93302cc8ed60f
-429,Tokenbox (TBX),https://etherscan.io/token/0x3a92bd396aef82af98ebc0aa9030d25a23b11c6b
+427,Tokenbox (TBX),https://etherscan.io/token/0x3a92bd396aef82af98ebc0aa9030d25a23b11c6b
+428,EventChain (EVC),https://etherscan.io/token/0xb62d18dea74045e822352ce4b3ee77319dc5ff2f
+429,Coinlancer (CL),https://etherscan.io/token/0xe81d72d14b1516e68ac3190a46c93302cc8ed60f
 430,Sugar Exchange (SGR),https://etherscan.io/token/0xcb5a05bef3257613e984c17dbcf039952b6d883f
 431,Horse (HORSE),https://etherscan.io/token/0x5b0751713b2527d7f002c0c4e2a37e1219610a6b
 432,Pylon (PYLNT),https://etherscan.io/token/0x7703c35cffdc5cda8d27aa3df2f9ba6964544b6e
-433,TrakInvest Token (TRAK),https://etherscan.io/token/0x12759512d326303b45f1cec8f7b6fd96f387778e
-434,BoutsPro (BOUTS),https://etherscan.io/token/0x139d9397274bb9e2c29a9aa8aa0b5874d30d62e3
+433,BoutsPro (BOUTS),https://etherscan.io/token/0x139d9397274bb9e2c29a9aa8aa0b5874d30d62e3
+434,TrakInvest Token (TRAK),https://etherscan.io/token/0x12759512d326303b45f1cec8f7b6fd96f387778e
 435,SyncFab Smart Manufacturing Blockchain (MFG),https://etherscan.io/token/0x6710c63432a2de02954fc0f851db07146a6c0312
 436,Hawala (HAT),https://etherscan.io/token/0x9002d4485b7594e3e850f0a206713b305113f69e
-437,TEAM (TEAM),https://etherscan.io/token/0x1c79ab32c66acaa1e9e81952b8aaa581b43e54e7
-438,ACE (ACE),https://etherscan.io/token/0x06147110022b768ba8f99a8f385df11a151a9cc8
+437,ACE (ACE),https://etherscan.io/token/0x06147110022b768ba8f99a8f385df11a151a9cc8
+438,TEAM (TEAM),https://etherscan.io/token/0x1c79ab32c66acaa1e9e81952b8aaa581b43e54e7
 439,Centra (CTR),https://etherscan.io/token/0x96A65609a7B84E8842732DEB08f56C3E21aC6f8a
 440,Jesus Coin (JC),https://etherscan.io/token/0xe2d82dc7da0e6f882e96846451f4fabcc8f90528
 441,XENON (XNN),https://etherscan.io/token/0xab95e915c123fded5bdfb6325e35ef5515f1ea69
@@ -445,19 +445,19 @@
 444,eBitcoinCash (eBCH),https://etherscan.io/token/0xafc39788c51f0c1ff7b55317f3e70299e521fff6
 445,eBitcoin (EBTC),https://etherscan.io/token/0xeb7c20027172e5d143fb030d50f91cece2d1485d
 446,Beluga Banking Infrastructure Token (BBI),https://etherscan.io/token/0x37d40510a2f5bc98aa7a0f7bf4b3453bcfb90ac1
-447,Finally Usable Crypto Karma (FUCK),https://etherscan.io/token/0x65be44c747988fbf606207698c944df4442efe19
-448,Lancer Token (LNC),https://etherscan.io/token/0x63e634330a20150dbb61b15648bc73855d6ccf07
-449,Tracto (TRCT),https://etherscan.io/token/0x30ceCB5461A449A90081F5a5F55db4e048397BAB
-450,Verify (CRED),https://etherscan.io/token/0x672a1ad4f667fb18a333af13667aa0af1f5b5bdd
-451,Signals Network Token (SGN),https://etherscan.io/token/0xb2135ab9695a7678dd590b1a996cb0f37bcb0718
+447,Goldmint MNT Prelaunch Token (MNTP),https://etherscan.io/token/0x83cee9e086a77e492ee0bb93c2b0437ad6fdeccc
+448,Finally Usable Crypto Karma (FUCK),https://etherscan.io/token/0x65be44c747988fbf606207698c944df4442efe19
+449,Lancer Token (LNC),https://etherscan.io/token/0x63e634330a20150dbb61b15648bc73855d6ccf07
+450,Tracto (TRCT),https://etherscan.io/token/0x30ceCB5461A449A90081F5a5F55db4e048397BAB
+451,Verify (CRED),https://etherscan.io/token/0x672a1ad4f667fb18a333af13667aa0af1f5b5bdd
 452,CreditBIT (CRB),https://etherscan.io/token/0xAef38fBFBF932D1AeF3B808Bc8fBd8Cd8E1f8BC5
 453,Network (CDX),https://etherscan.io/token/0x6fff3806bbac52a20e0d79bc538d527f6a22c96b
 454,Fabric Token (FT),https://etherscan.io/token/0x78a73B6CBc5D183CE56e786f6e905CaDEC63547B
 455,Legends (LGD),https://etherscan.io/token/0x59061b6f26BB4A9cE5828A19d35CFD5A4B80F056
 456,EthereumMovieVenture (EMV),https://etherscan.io/token/0xb802b24e0637c2b87d2e8b7784c055bbe921011a
 457,CryCash (CRC),https://etherscan.io/token/0xf41e5fbc2f6aac200dd8619e121ce1f05d150077
-458,ConnectJob (CJT),https://etherscan.io/token/0x3abdff32f76b42e7635bdb7e425f0231a5f3ab17
-459,ESZCoin (ESZ),https://etherscan.io/token/0xe8a1df958be379045e2b46a31a98b93a2ecdfded
+458,ESZCoin (ESZ),https://etherscan.io/token/0xe8a1df958be379045e2b46a31a98b93a2ecdfded
+459,Signals Network Token (SGN),https://etherscan.io/token/0xb2135ab9695a7678dd590b1a996cb0f37bcb0718
 460,Speed Mining Service (SMS),https://etherscan.io/token/0x39013f961c378f02c2b82a6e1d31e9812786fd9d
 461,NEVERDIE (NDC),https://etherscan.io/token/0xa54ddc7b3cce7fc8b1e3fa0256d0db80d2c10970
 462,Datarius Credit (DTRC),https://etherscan.io/token/0xc20464e0c373486d2b3335576e83a218b1618a5e
@@ -474,16 +474,16 @@
 473,Embers (EMB),https://etherscan.io/token/0x386467f1f3ddbe832448650418311a479eecfc57
 474,Tigereum (TIG),https://etherscan.io/token/0xeee2d00eb7deb8dd6924187f5aa3496b7d06e62a
 475,StarCredits (STRC),https://etherscan.io/token/0x46492473755e8df960f8034877f61732d718ce96
-476,Authorship (ATS),https://etherscan.io/token/0x2dAEE1AA61D60A252DC80564499A69802853583A
-477,Transcodium (TNS),https://etherscan.io/token/0xb0280743b44bf7db4b6be482b2ba7b75e5da096c
-478,Veros (VRS),https://etherscan.io/token/0x92e78dae1315067a8819efd6dca432de9dcde2e9
-479,Suretly (SUR),https://etherscan.io/token/0xe120c1ecbfdfea7f0a8f0ee30063491e8c26fedf
-480,Origami Network (ORI),https://etherscan.io/token/0xd2fa8f92ea72abb35dbd6deca57173d22db2ba49
-481,RouletteToken (RLT),https://etherscan.io/token/0xcced5b8288086be8c38e23567e684c3740be4d48
-482,QVT (QVT),https://etherscan.io/token/0x1183f92a5624d68e85ffb9170f16bf0443b4c242
-483,Intelligent Trading Technologies (ITT),https://etherscan.io/token/0x0aef06dcccc531e581f0440059e6ffcc206039ee
-484,WILD Token (WILD),https://etherscan.io/token/0xd3c00772b24d997a812249ca637a921e81357701
-485,Goldmint MNT Prelaunch Token (MNTP),https://etherscan.io/token/0x83cee9e086a77e492ee0bb93c2b0437ad6fdeccc
+476,ConnectJob (CJT),https://etherscan.io/token/0x3abdff32f76b42e7635bdb7e425f0231a5f3ab17
+477,Authorship (ATS),https://etherscan.io/token/0x2dAEE1AA61D60A252DC80564499A69802853583A
+478,Transcodium (TNS),https://etherscan.io/token/0xb0280743b44bf7db4b6be482b2ba7b75e5da096c
+479,Veros (VRS),https://etherscan.io/token/0x92e78dae1315067a8819efd6dca432de9dcde2e9
+480,Suretly (SUR),https://etherscan.io/token/0xe120c1ecbfdfea7f0a8f0ee30063491e8c26fedf
+481,Origami Network (ORI),https://etherscan.io/token/0xd2fa8f92ea72abb35dbd6deca57173d22db2ba49
+482,RouletteToken (RLT),https://etherscan.io/token/0xcced5b8288086be8c38e23567e684c3740be4d48
+483,QVT (QVT),https://etherscan.io/token/0x1183f92a5624d68e85ffb9170f16bf0443b4c242
+484,Intelligent Trading Technologies (ITT),https://etherscan.io/token/0x0aef06dcccc531e581f0440059e6ffcc206039ee
+485,WILD Token (WILD),https://etherscan.io/token/0xd3c00772b24d997a812249ca637a921e81357701
 486,EQUAL (EQL),https://etherscan.io/token/0x47dd62d4d075dead71d0e00299fc56a2d747bebb
 487,Nexxus (NXX),https://etherscan.io/token/0x7627de4b93263a6a7570b8dafa64bae812e5c394
 488,Jetcoin (JET),https://etherscan.io/token/0x8727c112c712c4a03371ac87a74dd6ab104af768
